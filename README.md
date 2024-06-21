@@ -9,3 +9,5 @@
 **attention**：It is not recommended to train directly using the dataset. Pretraining is advised, and it is recommended to use the Cityspace dataset. 
 
 If you use images from the dataset as illustrations, please contact wangwentao@xauat.edu.cn for confirmation, as some images in the dataset are temporarily not allowed to be used as paper illustrations.
+
+A small portion of the images in the original dataset are from experiments that have not yet been published, and as such, these images are currently not available for public release. They will be added in the future.
