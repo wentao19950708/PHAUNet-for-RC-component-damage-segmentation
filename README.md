@@ -5,6 +5,10 @@
 **Abstract:** Damage identification in post-earthquake reinforced concrete (RC) structures based on semantic segmentation has been recognized as a promising approach for rapid and non-contact damage localization and quantification. In damage segmentation tasks, damage regions are often set against complex backgrounds, featuring irregular geometric boundaries and intricate textures, posing significant challenges to model segmentation performance. Additionally, the absence of public datasets exacerbates these challenges, hindering advancements in this field. In this study, a pyramid Haar wavelet downsampling attention UNet (PHA-UNet) semantic segmentation network is proposed, and a database containing 1400 images of damaged RC components (PEDRC-Dataset) with pixel-level annotations is established. In the proposed PHA-UNet, attention mechanisms, multiscale feature fusion, Haar wavelet downsampling, and transfer learning are introduced to address above challenges. Finally, the proposed PHA-UNet is compared with 4 existing image segmentation architectures on both the Cityspace and the PEDRC-Dataset.
 
 **dataset**：dataset is open access on(https://gzc-dfsdown.mail.ftn.qq.com/1373//xt2fa902-78c9-3c64-d498-e6b9994d42db?dkey=lg8sKY9C1eHhZ6ystMWZD_0wfZgItXHtVHQRl023vXBdptojTMTkkDVGqEwt6oWo5GXtaiQQUpXYELnITal3plA&fname=Column-dataset.zip&eggs&xffz=1199666274)
+you can also download full paper and dataset by clouddisk：
+
+https://pan.baidu.com/s/1sjijR1fCCDP4CWqsRiU5YQ
+73o0
 
 Please contact us if the link is not working: wangwentao@xauat.edu.cn
 
